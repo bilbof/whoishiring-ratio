@@ -9,9 +9,9 @@ Uses the official HN API: https://github.com/HackerNews/API?tab=readme-ov-file.
 
 ## Latest stats
 
-June 2024:
+October 2024:
 
-![](./june-2024.png)
+![](./october-2024.png)
 
 [whoishiring]: https://news.ycombinator.com/user?id=whoishiring
 
