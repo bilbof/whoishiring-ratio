@@ -11,7 +11,7 @@ Uses the official HN API: https://github.com/HackerNews/API?tab=readme-ov-file.
 
 October 2024:
 
-![](./october-2024.png)
+![](./dec-2024.png)
 
 [whoishiring]: https://news.ycombinator.com/user?id=whoishiring
 
